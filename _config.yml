@@ -22,10 +22,10 @@ repository               : "tceron/taniseceron.github.io"
 author:
   # Biographic information
   avatar           : "tanise.jpg"
-  name             : "Tanise Ceron
+  name             : "Tanise Ceron"
+  pronouns         : "she/her"
+  bio              : "Hi, I'm interested in natural language processing and computational social science.
                       tanise.ceron[at]ims[dot]uni[minus]stuttgart[dot]de"
-  pronouns         : # example: "she/her"  
-  bio              : "Hi, I'm interested in natural language processing and computational social science."
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
   uri              : # URL
